@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="next_question">Next question</string>
+    <string name="again">Again</string>
+    <string name="result">You result: </string>
+</resources>

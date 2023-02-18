@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Win34</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="next_question">Next question</string>
+    <string name="again">Again</string>
+    <string name="result">You result: </string>
+</resources>
